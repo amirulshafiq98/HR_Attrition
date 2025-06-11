@@ -1,0 +1,7 @@
+employee_id
+snapshot_date
+hire_date
+termination_date
+ever_terminated_flag
+risk_of_exit_score
+target_variable

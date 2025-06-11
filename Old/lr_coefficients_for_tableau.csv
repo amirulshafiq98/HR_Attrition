@@ -1,0 +1,91 @@
+Feature,Coefficient
+cost_center_CC1010,-3.3656858724943124
+education_level_Associate,3.0005491403444386
+cost_center_CC1000,2.9218101453446486
+"location_New York, NY",-2.772751343480418
+job_title_Director,-2.6507133948121373
+cost_center_CC1016,-2.5538949566713858
+job_title_VP,2.5444432238066454
+cost_center_CC1004,2.3827117080743383
+"location_San Francisco, CA",2.2321558271452857
+cost_center_CC1011,-2.195416615162926
+cost_center_CC1005,2.131358808591606
+marital_status_Single,-1.894326162624583
+exemption_status_Exempt,1.863651787923111
+marital_status_Divorced,1.8112275949525336
+cost_center_CC1002,1.806141165052343
+"location_Austin, TX",1.732469026649746
+education_level_PhD,-1.6823119520973573
+employment_type_Part-time,-1.5349163324868689
+job_title_Senior Director,-1.50729491276818
+job_title_Analyst,1.4599506607786055
+department_Engineering,1.4304626522870516
+job_level,-1.4192239592535434
+job_title_Senior Manager,-1.41530637122735
+cost_center_CC1017,-1.3732919501687963
+department_Marketing,1.3528771745821533
+exemption_status_Non-exempt,-1.3430997059110124
+engagement_score,-1.3420158182709823
+employment_type_Contractor,1.318527545592638
+department_Customer Success,-1.2969030931088248
+ethnicity_Asian,1.27697000861456
+cost_center_CC1019,1.27644319900158
+cost_center_CC1001,-1.276149888398111
+tenure_months,1.2290786653572416
+cost_center_CC1008,1.1816090932266174
+education_level_Bachelor,1.1582869596284837
+job_title_Manager,1.1451366912919885
+equity_grant,-1.0994533892219376
+cost_center_CC1014,-1.0464596961454484
+education_level_Master,-0.9814634199981931
+education_level_High School,-0.9745086458651403
+job_title_Senior Analyst,0.9443361849425523
+department_Product,-0.9248695068681665
+business_unit_Corporate,0.857204037286929
+parental_leave_No Leave,0.83884223387017
+ethnicity_Hispanic,-0.8355701105393212
+equity_pct,0.8311697203625471
+department_HR,0.7994633136834239
+high_potential_flag,-0.7604170138121954
+employment_type_Full-time,0.7369408689062578
+cost_center_CC1009,0.7051920283662164
+succession_plan_status_Not in plan,0.691894776118269
+base_salary,0.6764228130031008
+location_Remote,-0.6698709393671768
+ethnicity_Black,0.6349823370261696
+performance_rating,0.6135116993815338
+department_Support,-0.6052337973013432
+age,0.5994167140375117
+current_salary,-0.5703697995398771
+promotion_count,0.5412249757279207
+pay_frequency_Monthly,0.520552082012042
+veteran_status,0.516070886775874
+months_since_last_training,-0.5006141099826424
+disability_status,0.4945552428339054
+department_Operations,0.44026155485062046
+fte,0.4304289740381603
+marital_status_Married,0.4179850341112891
+department_Finance,-0.38252083124710856
+ethnicity_Other,-0.3564050948258469
+cost_center_CC1012,-0.33038797673148207
+parental_leave_Leave Taken,-0.31829015185803744
+aihr_certified,0.31284417597944497
+bonus_eligible,0.3094824111893754
+vacation_leave,-0.29370765744525756
+department_Sales,-0.2929853848656944
+cost_center_CC1018,0.27830819183886346
+bonus_pct,-0.27249800393329027
+personal_leave,0.2722022349169336
+business_unit_Commercial,-0.2370113033923352
+ethnicity_White,-0.19942505826341875
+marital_status_Widowed,0.18566561557282893
+cost_center_CC1013,-0.18435041799350496
+sick_leave,-0.183429156244032
+succession_plan_status_In plan,-0.17134269410607403
+cost_center_CC1006,0.1640223983525701
+training_count,-0.1417483320095933
+cost_center_CC1007,-0.1382491775531318
+cost_center_CC1003,0.11435855710364964
+business_unit_Tech,-0.0996406518824813
+cost_center_CC1015,0.02248333837879719
+"location_Seattle, WA",-0.0014504889353421672

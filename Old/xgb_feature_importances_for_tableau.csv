@@ -1,0 +1,91 @@
+Feature,Importance (Mean Abs SHAP)
+education_level_Bachelor,1.0030913
+"location_New York, NY",0.9449187
+marital_status_Single,0.9015518
+ethnicity_White,0.52049476
+engagement_score,0.4546799
+job_title_Director,0.44059822
+tenure_months,0.37836462
+location_Remote,0.3714871
+fte,0.37016526
+base_salary,0.34734303
+months_since_last_training,0.34295237
+education_level_Master,0.30507508
+business_unit_Tech,0.30250302
+business_unit_Commercial,0.2809273
+marital_status_Married,0.22724463
+education_level_PhD,0.20506176
+equity_grant,0.20305005
+training_count,0.19149101
+"location_Seattle, WA",0.16932972
+exemption_status_Exempt,0.1686514
+performance_rating,0.16542883
+employment_type_Full-time,0.16438152
+job_level,0.14949375
+equity_pct,0.14435254
+parental_leave_Leave Taken,0.13567114
+sick_leave,0.11437634
+cost_center_CC1011,0.10907596
+job_title_Analyst,0.10699107
+job_title_Senior Manager,0.10677617
+exemption_status_Non-exempt,0.1008359
+education_level_Associate,0.09721877
+job_title_Senior Director,0.08121619
+personal_leave,0.07770678
+"location_San Francisco, CA",0.074838094
+cost_center_CC1010,0.07389222
+cost_center_CC1012,0.07073334
+age,0.0698834
+cost_center_CC1016,0.06704345
+high_potential_flag,0.064848535
+current_salary,0.06467878
+department_Sales,0.049354713
+job_title_VP,0.0462753
+job_title_Manager,0.03666526
+ethnicity_Hispanic,0.03130989
+education_level_High School,0.02379355
+department_Engineering,0.022823704
+ethnicity_Asian,0.015944682
+department_Product,0.011014985
+department_HR,0.0
+department_Finance,0.0
+bonus_eligible,0.0
+bonus_pct,0.0
+department_Customer Success,0.0
+vacation_leave,0.0
+aihr_certified,0.0
+promotion_count,0.0
+disability_status,0.0
+veteran_status,0.0
+marital_status_Widowed,0.0
+marital_status_Divorced,0.0
+ethnicity_Black,0.0
+ethnicity_Other,0.0
+employment_type_Contractor,0.0
+employment_type_Part-time,0.0
+job_title_Senior Analyst,0.0
+"location_Austin, TX",0.0
+business_unit_Corporate,0.0
+department_Support,0.0
+department_Operations,0.0
+department_Marketing,0.0
+cost_center_CC1002,0.0
+pay_frequency_Monthly,0.0
+cost_center_CC1000,0.0
+cost_center_CC1001,0.0
+cost_center_CC1009,0.0
+cost_center_CC1008,0.0
+cost_center_CC1007,0.0
+cost_center_CC1006,0.0
+cost_center_CC1005,0.0
+cost_center_CC1004,0.0
+cost_center_CC1003,0.0
+cost_center_CC1013,0.0
+cost_center_CC1017,0.0
+cost_center_CC1015,0.0
+cost_center_CC1014,0.0
+cost_center_CC1019,0.0
+cost_center_CC1018,0.0
+succession_plan_status_In plan,0.0
+succession_plan_status_Not in plan,0.0
+parental_leave_No Leave,0.0
